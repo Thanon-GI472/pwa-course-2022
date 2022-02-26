@@ -7,6 +7,7 @@ import Chat from "./Chat";
 import Profile from "./Profile";
 import FriendList from "./FriendList";
 
+//Component
 function Router() {
   return (
     <BrowserRouter>
